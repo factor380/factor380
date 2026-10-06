@@ -1,4 +1,5 @@
 Hi, I'm Binyamin 👋
+
 Backend developer with about 4 years of experience building production systems with Node.js, NestJS and TypeScript on AWS and Kubernetes / OpenShift. Lately I've been working a lot with AI agents and MCP.
 
 🛡️ Served in the IDF J6 and Cyber Defense Directorate (2021-2024)
@@ -9,7 +10,8 @@ Backend: Node.js · NestJS · TypeScript · Python · REST APIs · Prisma · Pos
 Cloud and DevOps: AWS · Kubernetes · OpenShift · GitLab CI/CD · Vercel
 Frontend: Angular · React · Next.js · Tailwind
 AI: AI agents · MCP · OpenAI API
-Featured projects
+Featured projects:
+
 🌅 After the Sun · live site
 A community map of sunset spots in Israel. Built with Next.js 16, TypeScript, Prisma and Supabase (Postgres, Google OAuth, Storage). It calculates sunset times in the browser from solar geometry, verifies uploaded files by their magic bytes, enforces row-level security on storage, and runs entirely on free tiers.
 
