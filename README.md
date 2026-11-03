@@ -15,7 +15,7 @@
 
 ## Featured projects
 
-### 🌅 [After the Sun](https://github.com/factor380/after-the-sun) · [live site](https://after-the-sun.vercel.app/)
+### 🌅 [After the Sun](https://github.com/factor380/after-the-sun) · [live site](https://after-the-sun.com/)
 A community map of sunset spots in Israel. Built with Next.js 16, TypeScript, Prisma and Supabase (Postgres, Google OAuth, Storage). It calculates sunset times in the browser from solar geometry, verifies uploaded files by their magic bytes, enforces row-level security on storage, and runs entirely on free tiers.
 
 ### 🧠 [Job Search Agent](https://github.com/factor380/job-search-agent)
